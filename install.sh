@@ -67,7 +67,7 @@ banner() {
 		printf "e"
 		sleep 0.6
 		printf " ....\n"
-		printf "\ntoilet -f font -F border \ $c\ \n" >> ~/Termux-zsh-theme/files/theme.sh
+		printf "\nrandom\ntoilet -f font -F border \ $c\ \n" >> ~/Termux-zsh-theme/files/theme.sh
 		printf "\n\033[1;92m[√]\033[1;93m setuping complete!\n"
 		printf "\n\033[1;96m Now setuping auto suggession and highlighting\n"
 		cd ~/Temux-zsh-theme\ installed > /dev/null 2>&1
