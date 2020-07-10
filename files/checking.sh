@@ -54,7 +54,7 @@ pythonn() {
 ssh="$(openssh)"
 php="$(phph)"
 wget="$(wgett)"
-python="$(pythonn)
+python="$(pythonn)"
 ii="$(curl -s -N ifconfig.me)"
 printf "\n\t\t\t\033[1;92m Your IP :\033[1;97m $ii\n"
 printf "\n\033[1;92m Checking git >> $git\n"
