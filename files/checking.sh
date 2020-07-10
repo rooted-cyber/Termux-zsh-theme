@@ -2,7 +2,7 @@ fo() {
 	cd $PREFIX/bin
 	}
 	ha() {
-		printf "\033[1;92m[√] \033[1;96minstalled"
+		printf "\033[1;96m[√] \033[1;93minstalled"
 		}
 		na() {
 			printf "\033[1;91m[×] Not installed!! "
@@ -54,8 +54,10 @@ pythonn() {
 ssh="$(openssh)"
 php="$(phph)"
 wget="$(wgett)"
-python="$(pythonn)"
-printf "\033[1;92m Checking git >> $git\n"
+python="$(pythonn)
+ii="$(curl -s -N ifconfig.me)"
+printf "\n\t\t\t\033[1;92m Your IP :\033[1;97m $ii\n"
+printf "\n\033[1;92m Checking git >> $git\n"
 printf "\033[1;92m Checking openssh >> $ssh\n"
 printf "\033[1;92m Checking php >> $php\n"
 printf "\033[1;92m Checking wget >> $wget\n"
