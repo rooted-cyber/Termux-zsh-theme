@@ -1,5 +1,5 @@
 clear
-source ~/Termux-zsh-theme\ installed/theme.sh
+source ~/Termux-zsh-theme\ installed/theme2.sh
 source ~/.oh-my-zsh/oh-my-zsh.sh
 source ~/Termux-zsh-theme\ installed/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/Termux-zsh-theme\ installed/zsh-autosuggestions/zsh-autosuggestions.zsh
