@@ -80,10 +80,12 @@ banner() {
 		git clone https://github.com/ohmyzsh/ohmyzsh
 		mv ohmyzsh .oh-my-zsh
 		cd ~/Termux-zsh-theme/files
-		cp -f theme.sh ~/Termux-zsh-theme\ installed
+		
 		cp -f .zshrc ~
 		cp -f checking.sh ~/Termux-zsh-theme\ installed
 		chsh -s zsh
+		sed -e "s/\Maruf/$c/g" theme.sh > theme2.sh
+		cp -f theme2.sh ~/Termux-zsh-theme\ installed
 		printf "\nCompleted , Now restart\n"
 		fi
 		}
