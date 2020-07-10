@@ -1,6 +1,7 @@
 clear
 source ~/Termux-zsh-theme\ installed/theme2.sh
-source ~/.oh-my-zsh/oh-my-zsh.sh
+export ZSH=$HOME/.oh-my-zsh
+source $ZSH/oh-my-zsh.sh
 source ~/Termux-zsh-theme\ installed/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/Termux-zsh-theme\ installed/zsh-autosuggestions/zsh-autosuggestions.zsh
 printf "\n\033[1;93m====================================================================\n"
