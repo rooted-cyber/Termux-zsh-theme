@@ -2,7 +2,7 @@ fo() {
 	cd $PREFIX/bin
 	}
 	ha() {
-		printf \033[1;92m"√ installed"
+		printf "\033[1;92m[√] \033[1;96minstalled"
 		}
 		na() {
 			printf "\033[1;91m[×] Not installed!! "
