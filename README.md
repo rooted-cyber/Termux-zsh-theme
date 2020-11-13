@@ -16,7 +16,7 @@
  
  
 
-<img src="https://github.com/rooted-cyber/fontb-install/raw/master/a1.png" style="width:300px;height:400px;">
+<img src="https://github.com/rooted-cyber/Termux-zsh-theme/raw/master/images/zsh-theme.png" style="width:300px;height:400px;">
 <img src="https://github.com/rooted-cyber/font-ijnstall/raw/master/a2.png" style="width:300px;height:400px;">
 
 <pre>
