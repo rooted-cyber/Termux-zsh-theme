@@ -12,9 +12,9 @@
  
  ## Telegram 2nd Bot;<b>https://t.me/rootedcyber2_bot</b>
  
- ## Whatsapp Group :<b>https://chat.whatsapp.com/BdCWDT2g35y67yV8DNHvfa</b>
  
- 
+## Re-Open Whatsapp Group : https://chat.whatsapp.com/JH8SqlhcIeX0IeC1t2RWmu
+
 
 <img src="https://github.com/rooted-cyber/Termux-zsh-theme/raw/master/images/zsh-theme.png" style="width:300px;height:400px;">
 <img src="https://github.com/rooted-cyber/font-ijnstall/raw/master/a2.png" style="width:300px;height:400px;">
